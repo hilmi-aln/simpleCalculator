@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    background-color: #e7dede;
+    text-align: center;
+    margin: 15% 15% 15% 15%;
+    padding: 30px;
+    font-size: 16px;
+}
+p{
+    margin-top: 15px;
+}
